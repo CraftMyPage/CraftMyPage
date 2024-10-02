@@ -7,16 +7,15 @@ A portfolio page builder.
 <br>
 <br>
 
+Installation
+------------
+1. Clone the repository.
+2. Run `npm ci`
+3. Start by `npm start`
+
+<br>
+
 TODO
 ----
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
 - [ ]
 - [ ]
