@@ -9,7 +9,7 @@ A portfolio page builder.
 
 Installation
 ------------
-1. Clone the branch.
+1. Clone the `main` branch.
 2. Run `npm ci`.
 3. Start by `npm start`.
 
