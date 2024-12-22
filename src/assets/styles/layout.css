@@ -1,0 +1,30 @@
+#nav-bar {
+    padding-bottom: 2vh;
+}
+
+#nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: var(--main-dark-bg-color);
+}
+
+#nav-bar li {
+    display: inline;
+    float: left;
+}
+
+  
+#nav-bar li a {
+    background-color: var(--main-dark-bg-color);
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
+
+#nav-bar li a:hover {
+    background-color: var(--link-hover);
+}

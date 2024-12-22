@@ -1,0 +1,12 @@
+:root {
+    --main-dark-bg-color: #2E5077;
+    --main-bg-color: #4DA1A9;
+    --main-button-color: #79D7BE;
+    --main-text-color: #F6F4F0;
+    --link-hover: #16375c;
+}
+
+* {
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}

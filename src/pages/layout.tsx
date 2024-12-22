@@ -1,15 +1,16 @@
 import { Outlet, Link } from "react-router-dom";
+import '../assets/styles/layout.css';
 
 const Layout = () => {
   return (
     <>
-      <nav>
+      <nav id="nav-bar">
         <ul>
           <li>
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/blogs">Blogs</Link>
+            <Link to="/login">Login</Link>
           </li>
           <li>
             <Link to="/contact">Contact</Link>

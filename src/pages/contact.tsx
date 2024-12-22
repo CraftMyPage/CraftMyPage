@@ -41,7 +41,7 @@ const contacts: ContactInfo[] = [
 const Contact = () => {
     return (
         <div>
-        <h1>Contact</h1>
+        <h1 id="current-page">Contact</h1>
         <div style={{ display: 'flex', justifyContent: 'space-around' }}>
           {contacts.map((contact, index) => (
             <div key={index} style={{ textAlign: 'center', margin: '20px' }}>
